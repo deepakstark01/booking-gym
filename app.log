@@ -135,3 +135,47 @@
 2025-06-10 18:39:52 - src.config.database - INFO - Database initialized successfully
 2025-06-10 18:39:52 - src.api - INFO - Database initialized successfully
 2025-06-10 18:39:54 - src.api - INFO - Shutting down application...
+2025-06-10 18:45:55 - root - INFO - Logging configuration setup completed
+2025-06-10 18:45:55 - root - INFO - Logging configuration setup completed
+2025-06-10 18:45:55 - __main__ - INFO - Starting Fitness Studio Booking API server...
+2025-06-10 18:45:55 - root - INFO - Logging configuration setup completed
+2025-06-10 18:45:55 - root - INFO - Logging configuration setup completed
+2025-06-10 18:45:55 - src.api - INFO - Initializing database...
+2025-06-10 18:45:55 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:45:55 - src.api - INFO - Database initialized successfully
+2025-06-10 18:46:01 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/test/test_booking.py')}
+2025-06-10 18:46:01 - src.api - INFO - Shutting down application...
+2025-06-10 18:46:02 - root - INFO - Logging configuration setup completed
+2025-06-10 18:46:02 - root - INFO - Logging configuration setup completed
+2025-06-10 18:46:02 - src.api - INFO - Initializing database...
+2025-06-10 18:46:02 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:46:02 - src.api - INFO - Database initialized successfully
+2025-06-10 18:46:02 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/test/test_booking.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
+2025-06-10 18:46:02 - src.api - INFO - Shutting down application...
+2025-06-10 18:46:02 - root - INFO - Logging configuration setup completed
+2025-06-10 18:46:02 - root - INFO - Logging configuration setup completed
+2025-06-10 18:46:02 - src.api - INFO - Initializing database...
+2025-06-10 18:46:02 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:46:02 - src.api - INFO - Database initialized successfully
+2025-06-10 18:46:02 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
+2025-06-10 18:46:03 - src.api - INFO - Shutting down application...
+2025-06-10 18:49:53 - root - INFO - Logging configuration setup completed
+2025-06-10 18:49:53 - asyncio - DEBUG - Using selector: KqueueSelector
+2025-06-10 18:49:53 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
+2025-06-10 18:49:53 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
+2025-06-10 18:49:53 - src.domain.repository - INFO - Retrieved 9 upcoming classes
+2025-06-10 18:49:53 - src.service.booking_service - INFO - Successfully converted 9 classes
+2025-06-10 18:49:53 - src.port.booking_port - INFO - Returning 9 classes
+2025-06-10 18:49:53 - httpx - INFO - HTTP Request: GET http://testserver/api/v1/classes "HTTP/1.1 200 OK"
+2025-06-10 18:49:54 - src.service.booking_service - INFO - Processing booking request for class 1
+2025-06-10 18:49:54 - src.service.booking_service - INFO - Successfully created booking 42
+2025-06-10 18:51:48 - root - INFO - Logging configuration setup completed
+2025-06-10 18:51:48 - asyncio - DEBUG - Using selector: KqueueSelector
+2025-06-10 18:51:48 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
+2025-06-10 18:51:48 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
+2025-06-10 18:51:48 - src.domain.repository - INFO - Retrieved 9 upcoming classes
+2025-06-10 18:51:48 - src.service.booking_service - INFO - Successfully converted 9 classes
+2025-06-10 18:51:48 - src.port.booking_port - INFO - Returning 9 classes
+2025-06-10 18:51:48 - httpx - INFO - HTTP Request: GET http://testserver/api/v1/classes "HTTP/1.1 200 OK"
+2025-06-10 18:51:48 - src.service.booking_service - INFO - Processing booking request for class 1
+2025-06-10 18:51:48 - src.service.booking_service - INFO - Successfully created booking 42
