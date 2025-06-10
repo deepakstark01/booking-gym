@@ -1,1010 +1,128 @@
-2025-06-10 11:20:58 - root - INFO - Logging configuration setup completed
-2025-06-10 11:20:59 - root - INFO - Logging configuration setup completed
-2025-06-10 11:21:23 - root - INFO - Logging configuration setup completed
-2025-06-10 11:21:23 - root - INFO - Logging configuration setup completed
-2025-06-10 16:58:23 - root - INFO - Logging configuration setup completed
-2025-06-10 16:58:23 - root - INFO - Logging configuration setup completed
-2025-06-10 16:58:23 - __main__ - INFO - Starting Fitness Studio Booking API server...
-2025-06-10 16:58:23 - root - INFO - Logging configuration setup completed
-2025-06-10 16:58:23 - root - INFO - Logging configuration setup completed
-2025-06-10 16:58:23 - src.api - INFO - Initializing database...
-2025-06-10 16:58:23 - src.config.database - ERROR - Error initializing database: file is not a database
-2025-06-10 16:58:23 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite')}
-2025-06-10 16:59:15 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 16:59:46 - root - INFO - Logging configuration setup completed
-2025-06-10 16:59:46 - root - INFO - Logging configuration setup completed
-2025-06-10 16:59:46 - __main__ - INFO - Starting Fitness Studio Booking API server...
-2025-06-10 16:59:46 - root - INFO - Logging configuration setup completed
-2025-06-10 16:59:46 - root - INFO - Logging configuration setup completed
-2025-06-10 16:59:46 - src.api - INFO - Initializing database...
-2025-06-10 16:59:46 - src.config.database - INFO - Seed data inserted successfully
-2025-06-10 16:59:46 - src.config.database - INFO - Database initialized successfully
-2025-06-10 16:59:46 - src.api - INFO - Database initialized successfully
-2025-06-10 16:59:46 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal')}
-2025-06-10 17:01:39 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:01:39 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:01:39 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:01:39 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:01:39 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:01:39 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite')}
-2025-06-10 17:01:56 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:01:56 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:01:56 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:01:56 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:01:56 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:02:18 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:03:05 - watchfiles.main - DEBUG - 1 change detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite')}
-2025-06-10 17:03:07 - src.api - INFO - Shutting down application...
-2025-06-10 17:03:09 - root - INFO - Logging configuration setup completed
-2025-06-10 17:03:09 - root - INFO - Logging configuration setup completed
-2025-06-10 17:03:09 - __main__ - INFO - Starting Fitness Studio Booking API server...
-2025-06-10 17:03:09 - root - INFO - Logging configuration setup completed
-2025-06-10 17:03:09 - root - INFO - Logging configuration setup completed
-2025-06-10 17:03:09 - src.api - INFO - Initializing database...
-2025-06-10 17:03:09 - src.config.database - INFO - Seed data inserted successfully
-2025-06-10 17:03:09 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:03:09 - src.api - INFO - Database initialized successfully
-2025-06-10 17:03:09 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal')}
-2025-06-10 17:03:14 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:03:14 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:03:14 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:03:14 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:03:14 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:03:15 - watchfiles.main - DEBUG - 1 change detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite')}
-2025-06-10 17:04:17 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:17 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:17 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:17 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:17 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:17 - src.api - INFO - Initializing database...
-2025-06-10 17:04:17 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:17 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:18 - watchfiles.main - DEBUG - 7 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4340666928'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4387115568'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4340666928'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4387115568')}
-2025-06-10 17:04:18 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:18 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:18 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:18 - src.api - INFO - Initializing database...
-2025-06-10 17:04:18 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:18 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:18 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:22 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:22 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:22 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:22 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:22 - src.api - INFO - Initializing database...
-2025-06-10 17:04:22 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:22 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:22 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4421718576'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4421718576')}
-2025-06-10 17:04:22 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:22 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:22 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:22 - src.api - INFO - Initializing database...
-2025-06-10 17:04:22 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:22 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:23 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4435350064'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4435350064')}
-2025-06-10 17:04:23 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:23 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:23 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:23 - src.api - INFO - Initializing database...
-2025-06-10 17:04:23 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:23 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:23 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:24 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:24 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:24 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:24 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:24 - src.api - INFO - Initializing database...
-2025-06-10 17:04:24 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:24 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:24 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4345172528'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4345172528')}
-2025-06-10 17:04:30 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:30 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:30 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:30 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:30 - src.api - INFO - Initializing database...
-2025-06-10 17:04:30 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:30 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:30 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4570616368'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4570616368')}
-2025-06-10 17:04:31 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:31 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:31 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:31 - src.api - INFO - Initializing database...
-2025-06-10 17:04:31 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:31 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:31 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4407185968'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4407185968')}
-2025-06-10 17:04:31 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:31 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:31 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:31 - src.api - INFO - Initializing database...
-2025-06-10 17:04:31 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:31 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:31 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:32 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:32 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:32 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:32 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:32 - src.api - INFO - Initializing database...
-2025-06-10 17:04:32 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:32 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:32 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4401091120'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4401091120')}
-2025-06-10 17:04:33 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:33 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:33 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:33 - src.api - INFO - Initializing database...
-2025-06-10 17:04:33 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:33 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:33 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4402287152'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4402287152')}
-2025-06-10 17:04:33 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:33 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:33 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:33 - src.api - INFO - Initializing database...
-2025-06-10 17:04:33 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:33 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:34 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:35 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:36 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:36 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:36 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:36 - src.api - INFO - Initializing database...
-2025-06-10 17:04:36 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:36 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:36 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4333326896'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4333326896')}
-2025-06-10 17:04:36 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:36 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:36 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:36 - src.api - INFO - Initializing database...
-2025-06-10 17:04:36 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:36 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:36 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4412150320'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4412150320')}
-2025-06-10 17:04:37 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:37 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:37 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:37 - src.api - INFO - Initializing database...
-2025-06-10 17:04:37 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:37 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:37 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4379316784'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4379316784')}
-2025-06-10 17:04:37 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:37 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:37 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:37 - src.api - INFO - Initializing database...
-2025-06-10 17:04:37 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:37 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:37 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4453175856'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4453175856')}
-2025-06-10 17:04:38 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:38 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:38 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:38 - src.api - INFO - Initializing database...
-2025-06-10 17:04:38 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:38 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:38 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4368601648'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4368601648')}
-2025-06-10 17:04:40 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:40 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:40 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:40 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:40 - src.api - INFO - Initializing database...
-2025-06-10 17:04:40 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:40 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:40 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4349366832'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4349366832')}
-2025-06-10 17:04:40 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:41 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:41 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:41 - src.api - INFO - Initializing database...
-2025-06-10 17:04:41 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:41 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:41 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:41 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:41 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:42 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:42 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:42 - src.api - INFO - Initializing database...
-2025-06-10 17:04:42 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:42 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:42 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4364046896'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4364046896')}
-2025-06-10 17:04:42 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:42 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:42 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:42 - src.api - INFO - Initializing database...
-2025-06-10 17:04:42 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:42 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:42 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4368896560'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4368896560')}
-2025-06-10 17:04:42 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:42 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:42 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:42 - src.api - INFO - Initializing database...
-2025-06-10 17:04:42 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:42 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:43 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:44 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:44 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:44 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:44 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:44 - src.api - INFO - Initializing database...
-2025-06-10 17:04:44 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:44 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:45 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4354609712'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4354609712')}
-2025-06-10 17:04:45 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:45 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:45 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:45 - src.api - INFO - Initializing database...
-2025-06-10 17:04:45 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:45 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:45 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:45 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:46 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:46 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:46 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:46 - src.api - INFO - Initializing database...
-2025-06-10 17:04:46 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:46 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:46 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4433252912'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4433252912')}
-2025-06-10 17:04:46 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:46 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:46 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:46 - src.api - INFO - Initializing database...
-2025-06-10 17:04:46 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:46 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:46 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4332900912'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4332900912')}
-2025-06-10 17:04:47 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:47 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:47 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:47 - src.api - INFO - Initializing database...
-2025-06-10 17:04:47 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:47 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:47 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:49 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:49 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:49 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:49 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:49 - src.api - INFO - Initializing database...
-2025-06-10 17:04:49 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:49 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:49 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4375286320'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4375286320'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:49 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:50 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:50 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:50 - src.api - INFO - Initializing database...
-2025-06-10 17:04:50 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:50 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:50 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:04:52 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:52 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:53 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:53 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:53 - src.api - INFO - Initializing database...
-2025-06-10 17:04:53 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:53 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:53 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4375581232'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4375581232'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc')}
-2025-06-10 17:04:53 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:53 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:54 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:54 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:54 - src.api - INFO - Initializing database...
-2025-06-10 17:04:54 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:54 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:54 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4380824112'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4380824112')}
-2025-06-10 17:04:56 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:04:56 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:56 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:56 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:56 - src.api - INFO - Initializing database...
-2025-06-10 17:04:56 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:56 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:56 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4334146096'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4334146096')}
-2025-06-10 17:04:56 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:57 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:57 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:57 - src.api - INFO - Initializing database...
-2025-06-10 17:04:57 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:57 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:57 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4420670000'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4420670000')}
-2025-06-10 17:04:57 - src.api - INFO - Shutting down application...
-2025-06-10 17:04:57 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:57 - root - INFO - Logging configuration setup completed
-2025-06-10 17:04:57 - src.api - INFO - Initializing database...
-2025-06-10 17:04:57 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:04:57 - src.api - INFO - Database initialized successfully
-2025-06-10 17:04:57 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:05:05 - root - INFO - Logging configuration setup completed
-2025-06-10 17:05:05 - root - INFO - Logging configuration setup completed
-2025-06-10 17:05:05 - __main__ - INFO - Starting Fitness Studio Booking API server...
-2025-06-10 17:05:05 - root - INFO - Logging configuration setup completed
-2025-06-10 17:05:05 - root - INFO - Logging configuration setup completed
-2025-06-10 17:05:05 - src.api - INFO - Initializing database...
-2025-06-10 17:05:05 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:05:05 - src.api - INFO - Database initialized successfully
-2025-06-10 17:05:09 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:05:09 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:05:09 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:05:09 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:05:09 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:05:20 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock')}
-2025-06-10 17:06:27 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:06:27 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:06:27 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:06:27 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:06:27 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:06:53 - watchfiles.main - DEBUG - 1 change detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:06:55 - watchfiles.main - DEBUG - 1 change detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:06:55 - watchfiles.main - DEBUG - 1 change detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:06:55 - watchfiles.main - DEBUG - 1 change detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:00 - watchfiles.main - DEBUG - 1 change detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:05 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:05 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:08 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:10 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:13 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:14 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:14 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:16 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:21 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:25 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:25 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:25 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:26 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:26 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:28 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:31 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:32 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:32 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:07:34 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:08:17 - src.port.booking_port - INFO - Booking request for class 1 by deepak@rezonanz.io
-2025-06-10 17:08:17 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:08:17 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:08:17 - src.domain.repository - ERROR - Error checking existing booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:08:17 - src.service.booking_service - ERROR - Error creating booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:08:17 - src.port.booking_port - WARNING - Booking failed: Internal error occurred while processing booking
-2025-06-10 17:08:21 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock')}
-2025-06-10 17:08:57 - src.port.booking_port - INFO - Booking request for class 1 by john@example.com
-2025-06-10 17:08:57 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:08:57 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:08:57 - src.domain.repository - ERROR - Error checking existing booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:08:57 - src.service.booking_service - ERROR - Error creating booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:08:57 - src.port.booking_port - WARNING - Booking failed: Internal error occurred while processing booking
-2025-06-10 17:09:13 - src.port.booking_port - INFO - Booking request for class 1 by john@example.com
-2025-06-10 17:09:13 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:09:13 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:09:13 - src.domain.repository - ERROR - Error checking existing booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:09:13 - src.service.booking_service - ERROR - Error creating booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:09:13 - src.port.booking_port - WARNING - Booking failed: Internal error occurred while processing booking
-2025-06-10 17:09:32 - src.api - INFO - Shutting down application...
-2025-06-10 17:12:47 - root - INFO - Logging configuration setup completed
-2025-06-10 17:12:47 - root - INFO - Logging configuration setup completed
-2025-06-10 17:12:48 - __main__ - INFO - Starting Fitness Studio Booking API server...
-2025-06-10 17:12:48 - root - INFO - Logging configuration setup completed
-2025-06-10 17:12:48 - root - INFO - Logging configuration setup completed
-2025-06-10 17:12:48 - src.api - INFO - Initializing database...
-2025-06-10 17:12:48 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:12:48 - src.api - INFO - Database initialized successfully
-2025-06-10 17:12:54 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:12:54 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:12:54 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:12:54 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:12:54 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:13:20 - src.port.booking_port - INFO - Booking request for class 101 by john.doe@example.com
-2025-06-10 17:13:20 - src.service.booking_service - INFO - Processing booking request for class 101
-2025-06-10 17:13:20 - src.domain.repository - WARNING - Class 101 not found
-2025-06-10 17:13:20 - src.port.booking_port - WARNING - Booking failed: Class with ID 101 not found
-2025-06-10 17:13:28 - src.port.booking_port - INFO - Booking request for class 1 by john.doe@example.com
-2025-06-10 17:13:28 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:13:28 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:13:28 - src.domain.repository - ERROR - Error checking existing booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:13:28 - src.service.booking_service - ERROR - Error creating booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:13:28 - src.port.booking_port - WARNING - Booking failed: Internal error occurred while processing booking
-2025-06-10 17:15:05 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:15:05 - src.api - INFO - Shutting down application...
-2025-06-10 17:15:06 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:15:06 - root - INFO - Logging configuration setup completed
-2025-06-10 17:15:06 - root - INFO - Logging configuration setup completed
-2025-06-10 17:15:06 - src.api - INFO - Initializing database...
-2025-06-10 17:15:06 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:15:06 - src.api - INFO - Database initialized successfully
-2025-06-10 17:15:06 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4341668400'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4341668400')}
-2025-06-10 17:15:37 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:15:41 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:15:42 - src.api - INFO - Shutting down application...
-2025-06-10 17:15:42 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:15:43 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:15:44 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:15:45 - root - INFO - Logging configuration setup completed
-2025-06-10 17:15:45 - root - INFO - Logging configuration setup completed
-2025-06-10 17:15:45 - src.api - INFO - Initializing database...
-2025-06-10 17:15:45 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:15:45 - src.api - INFO - Database initialized successfully
-2025-06-10 17:15:45 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4379499056'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4379499056')}
-2025-06-10 17:15:46 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:15:46 - src.api - INFO - Shutting down application...
-2025-06-10 17:15:47 - root - INFO - Logging configuration setup completed
-2025-06-10 17:15:47 - root - INFO - Logging configuration setup completed
-2025-06-10 17:15:47 - src.api - INFO - Initializing database...
-2025-06-10 17:15:47 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:15:47 - src.api - INFO - Database initialized successfully
-2025-06-10 17:15:47 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4380777008'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4380777008')}
-2025-06-10 17:15:57 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:15:57 - src.api - INFO - Shutting down application...
-2025-06-10 17:15:57 - root - INFO - Logging configuration setup completed
-2025-06-10 17:15:57 - root - INFO - Logging configuration setup completed
-2025-06-10 17:15:57 - src.api - INFO - Initializing database...
-2025-06-10 17:15:57 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:15:57 - src.api - INFO - Database initialized successfully
-2025-06-10 17:15:57 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4419377712'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4419377712'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:16:04 - src.port.booking_port - INFO - Booking request for class 1 by john.doe@example.com
-2025-06-10 17:16:04 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:16:04 - src.domain.repository - ERROR - Error retrieving class 1: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6120501248 and this is thread id 8742215424.
-2025-06-10 17:16:04 - src.service.booking_service - ERROR - Error creating booking: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6120501248 and this is thread id 8742215424.
-2025-06-10 17:16:04 - src.port.booking_port - WARNING - Booking failed: Internal error occurred while processing booking
-2025-06-10 17:16:26 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:16:26 - src.api - INFO - Shutting down application...
-2025-06-10 17:16:26 - root - INFO - Logging configuration setup completed
-2025-06-10 17:16:26 - root - INFO - Logging configuration setup completed
-2025-06-10 17:16:26 - src.api - INFO - Initializing database...
-2025-06-10 17:16:26 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:16:26 - src.api - INFO - Database initialized successfully
-2025-06-10 17:16:26 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4338113072'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4338113072'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:16:26 - src.api - INFO - Shutting down application...
-2025-06-10 17:16:26 - root - INFO - Logging configuration setup completed
-2025-06-10 17:16:26 - root - INFO - Logging configuration setup completed
-2025-06-10 17:16:26 - src.api - INFO - Initializing database...
-2025-06-10 17:16:27 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:16:27 - src.api - INFO - Database initialized successfully
-2025-06-10 17:16:27 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:17:59 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:17:59 - src.api - INFO - Shutting down application...
-2025-06-10 17:18:00 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:18:00 - root - INFO - Logging configuration setup completed
-2025-06-10 17:18:00 - root - INFO - Logging configuration setup completed
-2025-06-10 17:18:00 - src.api - INFO - Initializing database...
-2025-06-10 17:18:00 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:18:00 - src.api - INFO - Database initialized successfully
-2025-06-10 17:18:00 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4380332592'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4380332592'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc')}
-2025-06-10 17:18:00 - src.api - INFO - Shutting down application...
-2025-06-10 17:18:01 - root - INFO - Logging configuration setup completed
-2025-06-10 17:18:01 - root - INFO - Logging configuration setup completed
-2025-06-10 17:18:01 - src.api - INFO - Initializing database...
-2025-06-10 17:18:01 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:18:01 - src.api - INFO - Database initialized successfully
-2025-06-10 17:18:01 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4351463984'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4351463984'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc')}
-2025-06-10 17:18:01 - src.api - INFO - Shutting down application...
-2025-06-10 17:18:01 - root - INFO - Logging configuration setup completed
-2025-06-10 17:18:01 - root - INFO - Logging configuration setup completed
-2025-06-10 17:18:01 - src.api - INFO - Initializing database...
-2025-06-10 17:18:01 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:18:01 - src.api - INFO - Database initialized successfully
-2025-06-10 17:18:01 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:18:02 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:18:02 - src.api - INFO - Shutting down application...
-2025-06-10 17:18:02 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:18:02 - root - INFO - Logging configuration setup completed
-2025-06-10 17:18:02 - root - INFO - Logging configuration setup completed
-2025-06-10 17:18:02 - src.api - INFO - Initializing database...
-2025-06-10 17:18:02 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:18:02 - src.api - INFO - Database initialized successfully
-2025-06-10 17:18:03 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4404761136'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4404761136'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:18:07 - src.port.booking_port - INFO - Booking request for class 1 by john.doe@example.com
-2025-06-10 17:18:07 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:18:07 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:18:07 - src.domain.repository - ERROR - Error checking existing booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:18:07 - src.service.booking_service - ERROR - Error creating booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:18:07 - src.port.booking_port - WARNING - Booking failed: Internal error occurred while processing booking
-2025-06-10 17:18:37 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:19:52 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:19:52 - src.api - INFO - Shutting down application...
-2025-06-10 17:19:52 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:19:52 - root - INFO - Logging configuration setup completed
-2025-06-10 17:19:52 - root - INFO - Logging configuration setup completed
-2025-06-10 17:19:52 - src.api - INFO - Initializing database...
-2025-06-10 17:19:52 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:19:52 - src.api - INFO - Database initialized successfully
-2025-06-10 17:19:53 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4357759664'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4357759664'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:19:55 - src.port.booking_port - INFO - Booking request for class 1 by john.doe@example.com
-2025-06-10 17:19:55 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:19:55 - src.domain.repository - ERROR - Error retrieving class 1: ContextDecorator.__call__() missing 1 required positional argument: 'func'
-2025-06-10 17:19:55 - src.service.booking_service - ERROR - Error creating booking: ContextDecorator.__call__() missing 1 required positional argument: 'func'
-2025-06-10 17:19:55 - src.port.booking_port - WARNING - Booking failed: Internal error occurred while processing booking
-2025-06-10 17:20:23 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:20:23 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:20:23 - src.domain.repository - ERROR - Error retrieving classes: ContextDecorator.__call__() missing 1 required positional argument: 'func'
-2025-06-10 17:20:23 - src.service.booking_service - ERROR - Error retrieving upcoming classes: ContextDecorator.__call__() missing 1 required positional argument: 'func'
-2025-06-10 17:20:23 - src.port.booking_port - ERROR - Error getting classes: ContextDecorator.__call__() missing 1 required positional argument: 'func'
-2025-06-10 17:20:39 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:20:39 - src.api - INFO - Shutting down application...
-2025-06-10 17:20:40 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:20:40 - root - INFO - Logging configuration setup completed
-2025-06-10 17:20:40 - root - INFO - Logging configuration setup completed
-2025-06-10 17:20:40 - src.api - INFO - Initializing database...
-2025-06-10 17:20:40 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:20:40 - src.api - INFO - Database initialized successfully
-2025-06-10 17:20:40 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4391033392'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4391033392')}
-2025-06-10 17:20:42 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:20:42 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:20:42 - src.domain.repository - ERROR - Error retrieving classes: ContextDecorator.__call__() missing 1 required positional argument: 'func'
-2025-06-10 17:20:42 - src.service.booking_service - ERROR - Error retrieving upcoming classes: ContextDecorator.__call__() missing 1 required positional argument: 'func'
-2025-06-10 17:20:42 - src.port.booking_port - ERROR - Error getting classes: ContextDecorator.__call__() missing 1 required positional argument: 'func'
-2025-06-10 17:20:49 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:20:50 - src.api - INFO - Shutting down application...
-2025-06-10 17:20:50 - root - INFO - Logging configuration setup completed
-2025-06-10 17:20:50 - root - INFO - Logging configuration setup completed
-2025-06-10 17:20:50 - src.api - INFO - Initializing database...
-2025-06-10 17:20:50 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:20:50 - src.api - INFO - Database initialized successfully
-2025-06-10 17:20:50 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4360901168'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4360901168'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:20:52 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:20:52 - src.api - INFO - Shutting down application...
-2025-06-10 17:20:52 - root - INFO - Logging configuration setup completed
-2025-06-10 17:20:52 - root - INFO - Logging configuration setup completed
-2025-06-10 17:20:52 - src.api - INFO - Initializing database...
-2025-06-10 17:20:52 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:20:52 - src.api - INFO - Database initialized successfully
-2025-06-10 17:20:52 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4336554544'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4336554544')}
-2025-06-10 17:20:54 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:20:54 - src.api - INFO - Shutting down application...
-2025-06-10 17:20:55 - root - INFO - Logging configuration setup completed
-2025-06-10 17:20:55 - root - INFO - Logging configuration setup completed
-2025-06-10 17:20:55 - src.api - INFO - Initializing database...
-2025-06-10 17:20:55 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:20:55 - src.api - INFO - Database initialized successfully
-2025-06-10 17:20:55 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4416475696'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4416475696'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc')}
-2025-06-10 17:20:57 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:20:57 - src.api - INFO - Shutting down application...
-2025-06-10 17:20:58 - root - INFO - Logging configuration setup completed
-2025-06-10 17:20:58 - root - INFO - Logging configuration setup completed
-2025-06-10 17:20:58 - src.api - INFO - Initializing database...
-2025-06-10 17:20:58 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:20:58 - src.api - INFO - Database initialized successfully
-2025-06-10 17:20:58 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4416016944'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4416016944')}
-2025-06-10 17:21:00 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:21:00 - src.api - INFO - Shutting down application...
-2025-06-10 17:21:01 - root - INFO - Logging configuration setup completed
-2025-06-10 17:21:01 - root - INFO - Logging configuration setup completed
-2025-06-10 17:21:01 - src.api - INFO - Initializing database...
-2025-06-10 17:21:01 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:21:01 - src.api - INFO - Database initialized successfully
-2025-06-10 17:21:01 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4346405552'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4346405552')}
-2025-06-10 17:21:02 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:21:03 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:21:03 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:21:03 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:21:03 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:21:09 - src.port.booking_port - INFO - Booking request for class 1 by john.doe@example.com
-2025-06-10 17:21:09 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:21:09 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:21:09 - src.domain.repository - ERROR - Error checking existing booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:21:09 - src.service.booking_service - ERROR - Error creating booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:21:09 - src.port.booking_port - WARNING - Booking failed: Internal error occurred while processing booking
-2025-06-10 17:21:37 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:23:52 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:23:52 - src.api - INFO - Shutting down application...
-2025-06-10 17:23:53 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:23:53 - root - INFO - Logging configuration setup completed
-2025-06-10 17:23:53 - root - INFO - Logging configuration setup completed
-2025-06-10 17:23:53 - src.api - INFO - Initializing database...
-2025-06-10 17:23:53 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:23:53 - src.api - INFO - Database initialized successfully
-2025-06-10 17:23:53 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4377270832'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4377270832')}
-2025-06-10 17:23:54 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:23:54 - src.api - INFO - Shutting down application...
-2025-06-10 17:23:54 - root - INFO - Logging configuration setup completed
-2025-06-10 17:23:54 - root - INFO - Logging configuration setup completed
-2025-06-10 17:23:54 - src.api - INFO - Initializing database...
-2025-06-10 17:23:54 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:23:54 - src.api - INFO - Database initialized successfully
-2025-06-10 17:23:54 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4371601968'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4371601968'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:23:55 - src.api - INFO - Shutting down application...
-2025-06-10 17:23:55 - root - INFO - Logging configuration setup completed
-2025-06-10 17:23:55 - root - INFO - Logging configuration setup completed
-2025-06-10 17:23:55 - src.api - INFO - Initializing database...
-2025-06-10 17:23:55 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:23:55 - src.api - INFO - Database initialized successfully
-2025-06-10 17:23:55 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:23:55 - src.api - INFO - Shutting down application...
-2025-06-10 17:23:55 - root - INFO - Logging configuration setup completed
-2025-06-10 17:23:55 - root - INFO - Logging configuration setup completed
-2025-06-10 17:23:55 - src.api - INFO - Initializing database...
-2025-06-10 17:23:55 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:23:55 - src.api - INFO - Database initialized successfully
-2025-06-10 17:23:55 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4409956912'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4409956912'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc')}
-2025-06-10 17:24:22 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py')}
-2025-06-10 17:24:22 - src.api - INFO - Shutting down application...
-2025-06-10 17:24:23 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:23 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:23 - src.api - INFO - Initializing database...
-2025-06-10 17:24:23 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:24:23 - src.api - INFO - Database initialized successfully
-2025-06-10 17:24:23 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4409423120'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4409423120'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:24:24 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py')}
-2025-06-10 17:24:24 - src.api - INFO - Shutting down application...
-2025-06-10 17:24:24 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:24 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:24 - src.api - INFO - Initializing database...
-2025-06-10 17:24:24 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:24:24 - src.api - INFO - Database initialized successfully
-2025-06-10 17:24:24 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4335711504'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4335711504')}
-2025-06-10 17:24:24 - src.api - INFO - Shutting down application...
-2025-06-10 17:24:25 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:25 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:25 - src.api - INFO - Initializing database...
-2025-06-10 17:24:25 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:24:25 - src.api - INFO - Database initialized successfully
-2025-06-10 17:24:25 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:24:26 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py')}
-2025-06-10 17:24:26 - src.api - INFO - Shutting down application...
-2025-06-10 17:24:26 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:26 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:26 - src.api - INFO - Initializing database...
-2025-06-10 17:24:26 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:24:26 - src.api - INFO - Database initialized successfully
-2025-06-10 17:24:26 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4377687312'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4377687312')}
-2025-06-10 17:24:26 - src.api - INFO - Shutting down application...
-2025-06-10 17:24:26 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:26 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:26 - src.api - INFO - Initializing database...
-2025-06-10 17:24:26 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:24:26 - src.api - INFO - Database initialized successfully
-2025-06-10 17:24:27 - watchfiles.main - DEBUG - 5 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4338414864'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4338414864')}
-2025-06-10 17:24:27 - src.api - INFO - Shutting down application...
-2025-06-10 17:24:27 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:27 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:27 - src.api - INFO - Initializing database...
-2025-06-10 17:24:27 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:24:27 - src.api - INFO - Database initialized successfully
-2025-06-10 17:24:27 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:24:28 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py')}
-2025-06-10 17:24:28 - src.api - INFO - Shutting down application...
-2025-06-10 17:24:28 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:28 - root - INFO - Logging configuration setup completed
-2025-06-10 17:24:28 - src.api - INFO - Initializing database...
-2025-06-10 17:24:28 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:24:28 - src.api - INFO - Database initialized successfully
-2025-06-10 17:24:28 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4436915472'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4436915472')}
-2025-06-10 17:27:32 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:27:50 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:27:51 - src.api - INFO - Shutting down application...
-2025-06-10 17:27:51 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:27:51 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4414382768'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4414382768')}
-2025-06-10 17:27:52 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:27:52 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4388168368'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4388168368')}
-2025-06-10 17:27:53 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4369261232'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4369261232')}
-2025-06-10 17:27:53 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:27:53 - root - INFO - Logging configuration setup completed
-2025-06-10 17:27:53 - root - INFO - Logging configuration setup completed
-2025-06-10 17:27:53 - src.api - INFO - Initializing database...
-2025-06-10 17:27:53 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:27:53 - src.api - INFO - Database initialized successfully
-2025-06-10 17:27:53 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4586349232'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4586349232'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc')}
-2025-06-10 17:27:58 - src.port.booking_port - INFO - Booking request for class 1 by john.doe@example.com
-2025-06-10 17:27:58 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:27:58 - src.domain.repository - ERROR - Error retrieving class 1: '_GeneratorContextManager' object has no attribute 'cursor'
-2025-06-10 17:27:58 - src.service.booking_service - ERROR - Error creating booking: '_GeneratorContextManager' object has no attribute 'cursor'
-2025-06-10 17:27:58 - src.port.booking_port - WARNING - Booking failed: Internal error occurred while processing booking
-2025-06-10 17:28:01 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:28:01 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:28:01 - src.domain.repository - ERROR - Error retrieving classes: '_GeneratorContextManager' object has no attribute 'cursor'
-2025-06-10 17:28:01 - src.service.booking_service - ERROR - Error retrieving upcoming classes: '_GeneratorContextManager' object has no attribute 'cursor'
-2025-06-10 17:28:01 - src.port.booking_port - ERROR - Error getting classes: '_GeneratorContextManager' object has no attribute 'cursor'
-2025-06-10 17:28:04 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:28:04 - src.api - INFO - Shutting down application...
-2025-06-10 17:28:04 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4567474864'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4567474864')}
-2025-06-10 17:28:05 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:28:05 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4336018096'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4336018096'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc')}
-2025-06-10 17:28:06 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:28:06 - root - INFO - Logging configuration setup completed
-2025-06-10 17:28:06 - root - INFO - Logging configuration setup completed
-2025-06-10 17:28:06 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4371751600'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4371751600')}
-2025-06-10 17:28:06 - src.api - INFO - Initializing database...
-2025-06-10 17:28:06 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:28:06 - src.api - INFO - Database initialized successfully
-2025-06-10 17:28:07 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:28:08 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:28:08 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:28:08 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:28:08 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:28:08 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:31:49 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:31:58 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:31:58 - src.api - INFO - Shutting down application...
-2025-06-10 17:31:59 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:31:59 - root - INFO - Logging configuration setup completed
-2025-06-10 17:31:59 - root - INFO - Logging configuration setup completed
-2025-06-10 17:31:59 - src.api - INFO - Initializing database...
-2025-06-10 17:31:59 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:31:59 - src.api - INFO - Database initialized successfully
-2025-06-10 17:31:59 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4389984816'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4389984816'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc')}
-2025-06-10 17:32:11 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:32:12 - src.api - INFO - Shutting down application...
-2025-06-10 17:32:12 - root - INFO - Logging configuration setup completed
-2025-06-10 17:32:12 - root - INFO - Logging configuration setup completed
-2025-06-10 17:32:12 - src.api - INFO - Initializing database...
-2025-06-10 17:32:12 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:32:12 - src.api - INFO - Database initialized successfully
-2025-06-10 17:32:12 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4414102064'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4414102064'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:32:14 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:32:14 - src.api - INFO - Shutting down application...
-2025-06-10 17:32:15 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4372978224'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4372978224'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:32:16 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:32:16 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4343847472'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4343847472')}
-2025-06-10 17:32:21 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:32:21 - root - INFO - Logging configuration setup completed
-2025-06-10 17:32:21 - root - INFO - Logging configuration setup completed
-2025-06-10 17:32:21 - src.api - INFO - Initializing database...
-2025-06-10 17:32:21 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:32:21 - src.api - INFO - Database initialized successfully
-2025-06-10 17:32:21 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4385790512'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4385790512')}
-2025-06-10 17:32:34 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:32:34 - src.api - INFO - Shutting down application...
-2025-06-10 17:32:34 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4374373040'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4374373040')}
-2025-06-10 17:32:35 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:32:35 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4344554160'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4344554160')}
-2025-06-10 17:32:36 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4420674224'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4420674224'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:32:36 - root - INFO - Logging configuration setup completed
-2025-06-10 17:32:36 - root - INFO - Logging configuration setup completed
-2025-06-10 17:32:36 - src.api - INFO - Initializing database...
-2025-06-10 17:32:36 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:32:36 - src.api - INFO - Database initialized successfully
-2025-06-10 17:32:36 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4337590960'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4337590960'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:32:54 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:32:55 - src.api - INFO - Shutting down application...
-2025-06-10 17:32:55 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4335292976'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4335292976'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc')}
-2025-06-10 17:32:56 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:32:56 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4404941360'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4404941360'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc')}
-2025-06-10 17:32:56 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4373484080'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4373484080'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc')}
-2025-06-10 17:32:57 - root - INFO - Logging configuration setup completed
-2025-06-10 17:32:57 - root - INFO - Logging configuration setup completed
-2025-06-10 17:32:57 - src.api - INFO - Initializing database...
-2025-06-10 17:32:57 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:32:57 - src.api - INFO - Database initialized successfully
-2025-06-10 17:32:57 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4387115568'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4387115568')}
-2025-06-10 17:33:15 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py')}
-2025-06-10 17:33:15 - src.api - INFO - Shutting down application...
-2025-06-10 17:33:15 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4412798080'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4412798080')}
-2025-06-10 17:33:16 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py')}
-2025-06-10 17:33:16 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4399576192'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4399576192'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py')}
-2025-06-10 17:33:17 - root - INFO - Logging configuration setup completed
-2025-06-10 17:33:17 - root - INFO - Logging configuration setup completed
-2025-06-10 17:33:17 - src.api - INFO - Initializing database...
-2025-06-10 17:33:17 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:33:17 - src.api - INFO - Database initialized successfully
-2025-06-10 17:33:17 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4399772800'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4399772800'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:33:55 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py')}
-2025-06-10 17:33:55 - src.api - INFO - Shutting down application...
-2025-06-10 17:33:55 - root - INFO - Logging configuration setup completed
-2025-06-10 17:33:55 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:33:55 - root - INFO - Logging configuration setup completed
-2025-06-10 17:33:55 - src.api - INFO - Initializing database...
-2025-06-10 17:33:55 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:33:55 - src.api - INFO - Database initialized successfully
-2025-06-10 17:33:56 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4400821376'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4400821376')}
-2025-06-10 17:34:03 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:34:03 - src.api - INFO - Shutting down application...
-2025-06-10 17:34:03 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:03 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:03 - src.api - INFO - Initializing database...
-2025-06-10 17:34:03 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:34:03 - src.api - INFO - Database initialized successfully
-2025-06-10 17:34:03 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4409154224'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4409154224'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc')}
-2025-06-10 17:34:07 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/service/booking_service.py')}
-2025-06-10 17:34:07 - src.api - INFO - Shutting down application...
-2025-06-10 17:34:08 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:08 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:08 - src.api - INFO - Initializing database...
-2025-06-10 17:34:08 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:34:08 - src.api - INFO - Database initialized successfully
-2025-06-10 17:34:08 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4376458368'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/service/__pycache__/booking_service.cpython-312.pyc.4376458368'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:34:14 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:34:15 - src.api - INFO - Shutting down application...
-2025-06-10 17:34:15 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:15 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:15 - src.api - INFO - Initializing database...
-2025-06-10 17:34:15 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:34:15 - src.api - INFO - Database initialized successfully
-2025-06-10 17:34:15 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4378811056'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4378811056')}
-2025-06-10 17:34:18 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:34:18 - src.api - INFO - Shutting down application...
-2025-06-10 17:34:18 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4412514992'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4412514992'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:34:19 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:34:19 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:19 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:19 - src.api - INFO - Initializing database...
-2025-06-10 17:34:19 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:34:19 - src.api - INFO - Database initialized successfully
-2025-06-10 17:34:19 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4417528496'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4417528496')}
-2025-06-10 17:34:24 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:34:24 - src.api - INFO - Shutting down application...
-2025-06-10 17:34:24 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:24 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:24 - src.api - INFO - Initializing database...
-2025-06-10 17:34:24 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:34:24 - src.api - INFO - Database initialized successfully
-2025-06-10 17:34:24 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4407202352'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4407202352')}
-2025-06-10 17:34:25 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:34:26 - src.api - INFO - Shutting down application...
-2025-06-10 17:34:26 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4407022128'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4407022128'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:34:26 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/config/database.py')}
-2025-06-10 17:34:27 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:27 - root - INFO - Logging configuration setup completed
-2025-06-10 17:34:27 - src.api - INFO - Initializing database...
-2025-06-10 17:34:27 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:34:27 - src.api - INFO - Database initialized successfully
-2025-06-10 17:34:27 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4383019568'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/config/__pycache__/database.cpython-312.pyc.4383019568')}
-2025-06-10 17:34:28 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:34:28 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:34:28 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:34:28 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:34:28 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:34:31 - src.port.booking_port - INFO - Booking request for class 1 by john.doe@example.com
-2025-06-10 17:34:31 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:34:31 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:34:31 - src.domain.repository - ERROR - Error checking existing booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:34:31 - src.service.booking_service - ERROR - Error creating booking: '_GeneratorContextManager' object has no attribute 'args'
-2025-06-10 17:34:31 - src.port.booking_port - WARNING - Booking failed: Internal error occurred while processing booking
-2025-06-10 17:34:49 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:40:18 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:40:49 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:40:49 - src.api - INFO - Shutting down application...
-2025-06-10 17:40:50 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:40:50 - root - INFO - Logging configuration setup completed
-2025-06-10 17:40:50 - root - INFO - Logging configuration setup completed
-2025-06-10 17:40:50 - src.api - INFO - Initializing database...
-2025-06-10 17:40:50 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:40:50 - src.api - INFO - Database initialized successfully
-2025-06-10 17:40:50 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4385561136'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4385561136'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:40:53 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
-2025-06-10 17:40:53 - src.api - INFO - Shutting down application...
-2025-06-10 17:40:53 - root - INFO - Logging configuration setup completed
-2025-06-10 17:40:53 - root - INFO - Logging configuration setup completed
-2025-06-10 17:40:53 - src.api - INFO - Initializing database...
-2025-06-10 17:40:53 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:40:53 - src.api - INFO - Database initialized successfully
-2025-06-10 17:40:53 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4372159024'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4372159024')}
-2025-06-10 17:41:46 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:41:46 - src.api - INFO - Shutting down application...
-2025-06-10 17:41:47 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
-2025-06-10 17:41:56 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:41:57 - root - INFO - Logging configuration setup completed
-2025-06-10 17:41:57 - root - INFO - Logging configuration setup completed
-2025-06-10 17:41:57 - src.api - INFO - Initializing database...
-2025-06-10 17:41:57 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:41:57 - src.api - INFO - Database initialized successfully
-2025-06-10 17:41:57 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4402635440'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4402635440')}
-2025-06-10 17:42:34 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/repository.py')}
-2025-06-10 17:42:34 - src.api - INFO - Shutting down application...
-2025-06-10 17:42:35 - root - INFO - Logging configuration setup completed
-2025-06-10 17:42:35 - root - INFO - Logging configuration setup completed
-2025-06-10 17:42:35 - src.api - INFO - Initializing database...
-2025-06-10 17:42:35 - src.config.database - INFO - Database initialized successfully
-2025-06-10 17:42:35 - src.api - INFO - Database initialized successfully
-2025-06-10 17:42:35 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4425917104'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/repository.cpython-312.pyc.4425917104')}
-2025-06-10 17:42:40 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:42:40 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:42:40 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:42:40 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:42:40 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:42:43 - src.port.booking_port - INFO - Booking request for class 1 by john.doe@example.com
-2025-06-10 17:42:43 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:42:43 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:42:43 - src.domain.repository - INFO - Created booking 1 for class 1
-2025-06-10 17:42:43 - src.service.booking_service - INFO - Successfully created booking 1
-2025-06-10 17:42:43 - src.port.booking_port - INFO - Booking successful: Successfully booked 'Yoga' class with Priya Sharma
-2025-06-10 17:42:43 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal')}
-2025-06-10 17:42:52 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:42:52 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:42:52 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:42:52 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:42:52 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:43:18 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:43:23 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:23 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:23 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:24 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:24 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:27 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:27 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:27 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:28 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:28 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:29 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:29 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:30 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:30 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:30 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:31 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:31 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:32 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:32 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:32 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:33 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:33 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:33 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:34 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:34 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:35 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:35 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:35 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:36 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:36 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:36 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:37 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:38 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:39 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:39 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:40 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:40 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/readme.md')}
-2025-06-10 17:43:49 - src.port.booking_port - INFO - Booking request for class 1 by deepak@rezonanz.io
-2025-06-10 17:43:49 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:43:49 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:43:49 - src.domain.repository - INFO - Created booking 2 for class 1
-2025-06-10 17:43:49 - src.service.booking_service - INFO - Successfully created booking 2
-2025-06-10 17:43:49 - src.port.booking_port - INFO - Booking successful: Successfully booked 'Yoga' class with Priya Sharma
-2025-06-10 17:43:49 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal')}
-2025-06-10 17:43:55 - src.port.booking_port - INFO - Booking request for class 2 by deepak@rezonanz.io
-2025-06-10 17:43:55 - src.service.booking_service - INFO - Processing booking request for class 2
-2025-06-10 17:43:55 - src.domain.repository - INFO - Retrieved class 2
-2025-06-10 17:43:55 - src.domain.repository - INFO - Created booking 3 for class 2
-2025-06-10 17:43:55 - src.service.booking_service - INFO - Successfully created booking 3
-2025-06-10 17:43:55 - src.port.booking_port - INFO - Booking successful: Successfully booked 'Zumba' class with Rahul Kumar
-2025-06-10 17:43:55 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal')}
-2025-06-10 17:43:59 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
-2025-06-10 17:43:59 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
-2025-06-10 17:43:59 - src.domain.repository - INFO - Retrieved 9 upcoming classes
-2025-06-10 17:43:59 - src.service.booking_service - INFO - Successfully converted 9 classes
-2025-06-10 17:43:59 - src.port.booking_port - INFO - Returning 9 classes
-2025-06-10 17:44:27 - src.port.booking_port - INFO - Booking request for class 1 by john@example.com
-2025-06-10 17:44:27 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:44:27 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:44:27 - src.domain.repository - INFO - Created booking 4 for class 1
-2025-06-10 17:44:27 - src.service.booking_service - INFO - Successfully created booking 4
-2025-06-10 17:44:27 - src.port.booking_port - INFO - Booking successful: Successfully booked 'Yoga' class with Priya Sharma
-2025-06-10 17:44:27 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal')}
-2025-06-10 17:45:14 - src.port.booking_port - INFO - Booking request for class 1 by deepak@rezonanz.io
-2025-06-10 17:45:14 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:45:14 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:45:14 - src.port.booking_port - WARNING - Booking failed: You already have a booking for this class
-2025-06-10 17:45:23 - src.port.booking_port - INFO - Booking request for class 1 by deepak@rezonanz.io
-2025-06-10 17:45:23 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:45:23 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:45:23 - src.port.booking_port - WARNING - Booking failed: You already have a booking for this class
-2025-06-10 17:45:33 - src.port.booking_port - INFO - Booking request for class 1 by deepak@rezonanz.io
-2025-06-10 17:45:33 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:45:33 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:45:33 - src.port.booking_port - WARNING - Booking failed: You already have a booking for this class
-2025-06-10 17:45:57 - src.port.booking_port - INFO - Booking request for class 1 by john@example.com
-2025-06-10 17:45:57 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:45:57 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:45:57 - src.port.booking_port - WARNING - Booking failed: You already have a booking for this class
-2025-06-10 17:46:01 - src.port.booking_port - INFO - Booking request for class 1 by john@example.com
-2025-06-10 17:46:01 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:46:01 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:46:01 - src.port.booking_port - WARNING - Booking failed: You already have a booking for this class
-2025-06-10 17:46:06 - src.port.booking_port - INFO - Booking request for class 1 by deepak@rezonanz.io
-2025-06-10 17:46:06 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:46:06 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:46:06 - src.port.booking_port - WARNING - Booking failed: You already have a booking for this class
-2025-06-10 17:46:37 - src.port.booking_port - INFO - Getting bookings for email: deepak@rezonanz.io, timezone: Asia/Kolkata
-2025-06-10 17:46:37 - src.service.booking_service - INFO - Retrieving bookings for deepak@rezonanz.io in timezone: Asia/Kolkata
-2025-06-10 17:46:37 - src.domain.repository - INFO - Retrieved 2 bookings for deepak@rezonanz.io
-2025-06-10 17:46:37 - src.service.booking_service - INFO - Successfully retrieved 2 bookings for deepak@rezonanz.io
-2025-06-10 17:46:37 - src.port.booking_port - INFO - Returning 2 bookings for deepak@rezonanz.io
-2025-06-10 17:46:50 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:47:25 - src.port.booking_port - INFO - Getting class 1 for timezone: Asia/Kolkata
-2025-06-10 17:47:25 - src.service.booking_service - INFO - Retrieving class 1 for timezone: Asia/Kolkata
-2025-06-10 17:47:25 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:47:25 - src.service.booking_service - INFO - Successfully retrieved class 1
-2025-06-10 17:47:25 - src.port.booking_port - INFO - Returning class 1
-2025-06-10 17:47:33 - src.port.booking_port - INFO - Getting class 2 for timezone: Asia/Kolkata
-2025-06-10 17:47:33 - src.service.booking_service - INFO - Retrieving class 2 for timezone: Asia/Kolkata
-2025-06-10 17:47:33 - src.domain.repository - INFO - Retrieved class 2
-2025-06-10 17:47:33 - src.service.booking_service - INFO - Successfully retrieved class 2
-2025-06-10 17:47:33 - src.port.booking_port - INFO - Returning class 2
-2025-06-10 17:47:47 - src.port.booking_port - INFO - Getting class 1 for timezone: Asia/Kolkata
-2025-06-10 17:47:47 - src.service.booking_service - INFO - Retrieving class 1 for timezone: Asia/Kolkata
-2025-06-10 17:47:47 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:47:47 - src.service.booking_service - INFO - Successfully retrieved class 1
-2025-06-10 17:47:47 - src.port.booking_port - INFO - Returning class 1
-2025-06-10 17:49:59 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD')}
-2025-06-10 17:50:33 - src.port.booking_port - INFO - Booking request for class 1 by deepak@rezonanz.io
-2025-06-10 17:50:33 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:50:33 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:50:33 - src.port.booking_port - WARNING - Booking failed: You already have a booking for this class
-2025-06-10 17:51:06 - src.port.booking_port - INFO - Booking request for class 1 by deepak@rezonanz.io
-2025-06-10 17:51:06 - src.service.booking_service - INFO - Processing booking request for class 1
-2025-06-10 17:51:06 - src.domain.repository - INFO - Retrieved class 1
-2025-06-10 17:51:06 - src.port.booking_port - WARNING - Booking failed: You already have a booking for this class
-2025-06-10 17:51:10 - src.api - INFO - Shutting down application...
+2025-06-10 18:21:48 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
+2025-06-10 18:23:00 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock')}
+2025-06-10 18:24:01 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
+2025-06-10 18:24:02 - src.api - INFO - Shutting down application...
+2025-06-10 18:24:02 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
+2025-06-10 18:24:02 - root - INFO - Logging configuration setup completed
+2025-06-10 18:24:02 - root - INFO - Logging configuration setup completed
+2025-06-10 18:24:02 - src.api - INFO - Initializing database...
+2025-06-10 18:24:02 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:24:02 - src.api - INFO - Database initialized successfully
+2025-06-10 18:24:02 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4389984944'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4389984944')}
+2025-06-10 18:24:07 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
+2025-06-10 18:24:07 - src.api - INFO - Shutting down application...
+2025-06-10 18:24:08 - root - INFO - Logging configuration setup completed
+2025-06-10 18:24:08 - root - INFO - Logging configuration setup completed
+2025-06-10 18:24:08 - src.api - INFO - Initializing database...
+2025-06-10 18:24:08 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:24:08 - src.api - INFO - Database initialized successfully
+2025-06-10 18:24:08 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4348762800'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4348762800')}
+2025-06-10 18:26:00 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock')}
+2025-06-10 18:26:20 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/models.py')}
+2025-06-10 18:26:21 - src.api - INFO - Shutting down application...
+2025-06-10 18:26:21 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/models.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
+2025-06-10 18:26:21 - root - INFO - Logging configuration setup completed
+2025-06-10 18:26:21 - root - INFO - Logging configuration setup completed
+2025-06-10 18:26:21 - src.api - INFO - Initializing database...
+2025-06-10 18:26:21 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:26:21 - src.api - INFO - Database initialized successfully
+2025-06-10 18:26:21 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/models.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/models.cpython-312.pyc.4400718512'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/models.cpython-312.pyc.4400718512')}
+2025-06-10 18:26:48 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/domain/models.py')}
+2025-06-10 18:26:48 - src.api - INFO - Shutting down application...
+2025-06-10 18:26:49 - root - INFO - Logging configuration setup completed
+2025-06-10 18:26:49 - root - INFO - Logging configuration setup completed
+2025-06-10 18:26:49 - src.api - INFO - Initializing database...
+2025-06-10 18:26:49 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:26:49 - src.api - INFO - Database initialized successfully
+2025-06-10 18:26:49 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/models.cpython-312.pyc'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/models.cpython-312.pyc.4349272752'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/domain/__pycache__/models.cpython-312.pyc.4349272752')}
+2025-06-10 18:27:04 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
+2025-06-10 18:27:04 - src.api - INFO - Shutting down application...
+2025-06-10 18:27:04 - root - INFO - Logging configuration setup completed
+2025-06-10 18:27:04 - root - INFO - Logging configuration setup completed
+2025-06-10 18:27:04 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
+2025-06-10 18:27:04 - root - INFO - Logging configuration setup completed
+2025-06-10 18:27:04 - root - INFO - Logging configuration setup completed
+2025-06-10 18:27:05 - src.api - INFO - Initializing database...
+2025-06-10 18:27:05 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:27:05 - src.api - INFO - Database initialized successfully
+2025-06-10 18:27:05 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4345946672'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4345946672'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
+2025-06-10 18:27:09 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
+2025-06-10 18:27:09 - src.api - INFO - Shutting down application...
+2025-06-10 18:27:09 - root - INFO - Logging configuration setup completed
+2025-06-10 18:27:09 - root - INFO - Logging configuration setup completed
+2025-06-10 18:27:09 - src.api - INFO - Initializing database...
+2025-06-10 18:27:09 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:27:09 - src.api - INFO - Database initialized successfully
+2025-06-10 18:27:09 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4350583344'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4350583344')}
+2025-06-10 18:27:22 - src.service.booking_service - INFO - Attempting to cancel booking 4 for john.doe@example.com
+2025-06-10 18:27:22 - src.service.booking_service - DEBUG - Booking ID: 4, Client Email: john.doe@example.com
+2025-06-10 18:27:22 - src.service.booking_service - WARNING - Booking 4 not found or not owned by john.doe@example.com
+2025-06-10 18:27:22 - src.port.booking_port - WARNING - Failed to cancel booking 4: Booking not found or not owned by this email
+2025-06-10 18:27:31 - src.port.booking_port - INFO - Getting bookings for email: john@example.com, timezone: Asia/Kolkata
+2025-06-10 18:27:32 - src.service.booking_service - INFO - Retrieving bookings for john@example.com in timezone: Asia/Kolkata
+2025-06-10 18:27:32 - src.domain.repository - INFO - Retrieved 1 bookings for john@example.com
+2025-06-10 18:27:32 - src.service.booking_service - INFO - Successfully retrieved 1 bookings for john@example.com
+2025-06-10 18:27:32 - src.port.booking_port - INFO - Returning 1 bookings for john@example.com
+2025-06-10 18:27:49 - src.service.booking_service - INFO - Attempting to cancel booking 4 for john@example.com
+2025-06-10 18:27:49 - src.service.booking_service - DEBUG - Booking ID: 4, Client Email: john@example.com
+2025-06-10 18:27:49 - src.service.booking_service - INFO - Successfully cancelled booking 4
+2025-06-10 18:27:49 - src.port.booking_port - INFO - Booking 4 cancelled successfully
+2025-06-10 18:27:50 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite')}
+2025-06-10 18:28:02 - src.port.booking_port - INFO - Getting bookings for email: john@example.com, timezone: Asia/Kolkata
+2025-06-10 18:28:02 - src.service.booking_service - INFO - Retrieving bookings for john@example.com in timezone: Asia/Kolkata
+2025-06-10 18:28:02 - src.domain.repository - INFO - Retrieved 1 bookings for john@example.com
+2025-06-10 18:28:02 - src.service.booking_service - INFO - Successfully retrieved 1 bookings for john@example.com
+2025-06-10 18:28:02 - src.port.booking_port - INFO - Returning 1 bookings for john@example.com
+2025-06-10 18:28:58 - src.port.booking_port - INFO - Getting bookings for email: john@example.com, timezone: Asia/Kolkata
+2025-06-10 18:28:58 - src.service.booking_service - INFO - Retrieving bookings for john@example.com in timezone: Asia/Kolkata
+2025-06-10 18:28:58 - src.domain.repository - INFO - Retrieved 1 bookings for john@example.com
+2025-06-10 18:28:58 - src.service.booking_service - INFO - Successfully retrieved 1 bookings for john@example.com
+2025-06-10 18:28:58 - src.port.booking_port - INFO - Returning 1 bookings for john@example.com
+2025-06-10 18:29:02 - src.service.booking_service - INFO - Attempting to cancel booking 4 for john@example.com
+2025-06-10 18:29:02 - src.service.booking_service - DEBUG - Booking ID: 4, Client Email: john@example.com
+2025-06-10 18:29:02 - src.service.booking_service - WARNING - Booking 4 not found or not owned by john@example.com
+2025-06-10 18:29:02 - src.port.booking_port - WARNING - Failed to cancel booking 4: Booking not found or not owned by this email
+2025-06-10 18:29:10 - src.port.booking_port - INFO - Getting bookings for email: john@example.com, timezone: Asia/Kolkata
+2025-06-10 18:29:10 - src.service.booking_service - INFO - Retrieving bookings for john@example.com in timezone: Asia/Kolkata
+2025-06-10 18:29:10 - src.domain.repository - INFO - Retrieved 1 bookings for john@example.com
+2025-06-10 18:29:10 - src.service.booking_service - INFO - Successfully retrieved 1 bookings for john@example.com
+2025-06-10 18:29:10 - src.port.booking_port - INFO - Returning 1 bookings for john@example.com
+2025-06-10 18:29:25 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock')}
+2025-06-10 18:30:04 - src.port.booking_port - INFO - Getting bookings for email: john@example.com, timezone: Asia/Kolkata
+2025-06-10 18:30:04 - src.service.booking_service - INFO - Retrieving bookings for john@example.com in timezone: Asia/Kolkata
+2025-06-10 18:30:04 - src.domain.repository - INFO - Retrieved 1 bookings for john@example.com
+2025-06-10 18:30:04 - src.service.booking_service - INFO - Successfully retrieved 1 bookings for john@example.com
+2025-06-10 18:30:04 - src.port.booking_port - INFO - Returning 1 bookings for john@example.com
+2025-06-10 18:30:17 - src.port.booking_port - INFO - Getting bookings for email: deepak@rezonanz.io, timezone: Asia/Kolkata
+2025-06-10 18:30:17 - src.service.booking_service - INFO - Retrieving bookings for deepak@rezonanz.io in timezone: Asia/Kolkata
+2025-06-10 18:30:17 - src.domain.repository - INFO - Retrieved 2 bookings for deepak@rezonanz.io
+2025-06-10 18:30:17 - src.service.booking_service - INFO - Successfully retrieved 2 bookings for deepak@rezonanz.io
+2025-06-10 18:30:17 - src.port.booking_port - INFO - Returning 2 bookings for deepak@rezonanz.io
+2025-06-10 18:30:40 - src.service.booking_service - INFO - Attempting to cancel booking 2 for deepak@rezonanz.io
+2025-06-10 18:30:40 - src.service.booking_service - DEBUG - Booking ID: 2, Client Email: deepak@rezonanz.io
+2025-06-10 18:30:40 - src.service.booking_service - INFO - Successfully cancelled booking 2
+2025-06-10 18:30:40 - src.port.booking_port - INFO - Booking 2 cancelled successfully
+2025-06-10 18:30:41 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite')}
+2025-06-10 18:32:25 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/.git/FETCH_HEAD'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/.git/objects/maintenance.lock')}
+2025-06-10 18:34:20 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
+2025-06-10 18:34:20 - src.api - INFO - Shutting down application...
+2025-06-10 18:34:21 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
+2025-06-10 18:34:21 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
+2025-06-10 18:34:21 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
+2025-06-10 18:34:24 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
+2025-06-10 18:34:26 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/src/port/booking_port.py')}
+2025-06-10 18:34:26 - root - INFO - Logging configuration setup completed
+2025-06-10 18:34:26 - root - INFO - Logging configuration setup completed
+2025-06-10 18:34:26 - src.api - INFO - Initializing database...
+2025-06-10 18:34:26 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:34:26 - src.api - INFO - Database initialized successfully
+2025-06-10 18:34:26 - watchfiles.main - DEBUG - 4 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log'), (<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4409319984'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/src/port/__pycache__/booking_port.cpython-312.pyc.4409319984')}
+2025-06-10 18:34:35 - src.service.booking_service - INFO - Attempting to cancel booking 3 for deepak@rezonanz.io
+2025-06-10 18:34:35 - src.service.booking_service - DEBUG - Booking ID: 3, Client Email: deepak@rezonanz.io
+2025-06-10 18:34:35 - src.service.booking_service - INFO - Successfully cancelled booking 3
+2025-06-10 18:34:35 - src.port.booking_port - INFO - Booking 3 cancelled successfully
+2025-06-10 18:34:35 - watchfiles.main - DEBUG - 3 changes detected: {(<Change.added: 1>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.deleted: 3>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite-journal'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/db.sqlite')}
+2025-06-10 18:34:42 - src.service.booking_service - INFO - Attempting to cancel booking 3 for deepak@rezonanz.io
+2025-06-10 18:34:42 - src.service.booking_service - DEBUG - Booking ID: 3, Client Email: deepak@rezonanz.io
+2025-06-10 18:34:42 - src.service.booking_service - WARNING - Booking 3 not found or not owned by deepak@rezonanz.io
+2025-06-10 18:34:42 - src.port.booking_port - WARNING - Failed to cancel booking 3: Booking not found or not owned by this email

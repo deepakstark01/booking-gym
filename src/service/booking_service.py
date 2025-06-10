@@ -179,14 +179,29 @@ class BookingService:
             raise
     
     def cancel_booking(self, booking_id: int, client_email: str) -> BookingResult:
-        """Cancel a booking (future enhancement)."""
-        # This method can be implemented for booking cancellation
-        # Currently not in requirements but good for extensibility
-        self.logger.info(f"Cancel booking functionality not yet implemented")
-        return BookingResult(
-            success=False,
-            message="Booking cancellation not yet implemented"
-        )
+        """Cancel a booking if it exists and belongs to the client."""
+        self.logger.info(f"Attempting to cancel booking {booking_id} for {client_email}")
+        self.logger.debug(f"Booking ID: {booking_id}, Client Email: {client_email}")
+        try:
+            result = self.repository.cancel_booking(booking_id, client_email)
+            if result:
+                self.logger.info(f"Successfully cancelled booking {booking_id}")
+                return BookingResult(
+                    success=True,
+                    message="Booking cancelled successfully"
+                )
+            else:
+                self.logger.warning(f"Booking {booking_id} not found or not owned by {client_email}")
+                return BookingResult(
+                    success=False,
+                    message="Booking not found or not owned by this email"
+                )
+        except Exception as e:
+            self.logger.error(f"Error cancelling booking {booking_id}: {e}")
+            return BookingResult(
+                success=False,
+                message="Internal error occurred while cancelling booking"
+            )
     
     def get_class_availability(self, class_id: int) -> Optional[dict]:
         """Get detailed availability information for a class."""

@@ -27,7 +27,9 @@ class Class(ClassBase):
         if 'total_slots' in values and v > values['total_slots']:
             raise ValueError('Available slots cannot exceed total slots')
         return v
-
+class CancelBookingRequest(BaseModel):
+    booking_id: int
+    client_email: str
 class ClassResponse(BaseModel):
     """Class response model with timezone conversion."""
     id: int
@@ -120,6 +122,8 @@ class BookingResponse(BaseModel):
             class_datetime_local=local_dt.isoformat(),
             class_timezone=target_timezone
         )
+    
+
 
 class ErrorResponse(BaseModel):
     """Error response model."""

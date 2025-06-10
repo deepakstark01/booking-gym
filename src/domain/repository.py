@@ -46,6 +46,11 @@ class BookingRepositoryInterface(ABC):
     def update_class_slots(self, class_id: int) -> bool:
         """Reduce available slots for a class."""
         pass
+    
+    @abstractmethod
+    def cancel_booking(self, booking_id: int, client_email: str) -> bool:
+        """Cancel a booking and increment available slots if booking exists and belongs to the client."""
+        pass
 
 class BookingRepository(BookingRepositoryInterface):
     """SQLite implementation of booking repository."""
@@ -239,3 +244,33 @@ class BookingRepository(BookingRepositoryInterface):
         except Exception as e:
             logger.error(f"Error updating class slots: {e}")
             raise
+    
+    def cancel_booking(self, booking_id: int, client_email: str) -> bool:
+        """Cancel a booking and increment available slots if booking exists and belongs to the client."""
+        try:
+            with self.db_context() as conn:
+                cursor = conn.cursor()
+                # Check if booking exists and is confirmed
+                cursor.execute(
+                    "SELECT class_id FROM bookings WHERE id = ? AND client_email = ? AND status = 'confirmed'",
+                    (booking_id, client_email)
+                )
+                row = cursor.fetchone()
+                if not row:
+                    return False
+                class_id = row['class_id']
+                # Cancel the booking
+                cursor.execute(
+                    "UPDATE bookings SET status = 'cancelled' WHERE id = ?",
+                    (booking_id,)
+                )
+                # Increment available slots
+                cursor.execute(
+                    "UPDATE classes SET available_slots = available_slots + 1 WHERE id = ?",
+                    (class_id,)
+                )
+                conn.commit()
+                return True
+        except Exception as e:
+            logger.error(f"Error cancelling booking: {e}")
+            return False

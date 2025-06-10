@@ -10,7 +10,7 @@ from fastapi.responses import JSONResponse
 
 from src.domain.models import (
     ClassResponse, BookingRequest, BookingResponse, 
-    ErrorResponse, SuccessResponse, TimezoneQuery
+    ErrorResponse, SuccessResponse, TimezoneQuery, CancelBookingRequest
 )
 from src.service.booking_service import BookingService
 from src.config.database import get_database
@@ -230,3 +230,37 @@ class BookingRouter:
                     status_code=500,
                     detail="Internal server error while retrieving class"
                 )
+
+        @self.router.post(
+            "/cancel",
+            response_model=SuccessResponse,
+            summary="Cancel a booking",
+            description="Cancel a booking by ID"
+        )
+        async def cancel_booking(
+            booking_request: CancelBookingRequest,
+            booking_service: BookingService = Depends(self._get_booking_service)
+        ):
+            """Cancel a booking by ID."""
+            try:
+                result = booking_service.cancel_booking(booking_request.booking_id, booking_request.client_email)
+
+                if result.success:
+                    logger.info(f"Booking {booking_request.booking_id} cancelled successfully")
+                    return SuccessResponse(message=result.message, data={"booking_id": booking_request.booking_id})
+                else:
+                    logger.warning(f"Failed to cancel booking {booking_request.booking_id}: {result.message}")
+                    raise HTTPException(
+                        status_code=400,
+                        detail=result.message
+                    )
+            except HTTPException:
+                raise
+            except Exception as e:
+                logger.error(f"Error cancelling booking {booking_request.booking_id}: {e}")
+                raise HTTPException(
+                    status_code=500,
+                    detail="Internal server error while cancelling booking"
+                )
+
+
