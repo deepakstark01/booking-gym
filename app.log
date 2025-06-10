@@ -126,3 +126,12 @@
 2025-06-10 18:34:42 - src.service.booking_service - DEBUG - Booking ID: 3, Client Email: deepak@rezonanz.io
 2025-06-10 18:34:42 - src.service.booking_service - WARNING - Booking 3 not found or not owned by deepak@rezonanz.io
 2025-06-10 18:34:42 - src.port.booking_port - WARNING - Failed to cancel booking 3: Booking not found or not owned by this email
+2025-06-10 18:39:51 - root - INFO - Logging configuration setup completed
+2025-06-10 18:39:51 - root - INFO - Logging configuration setup completed
+2025-06-10 18:39:51 - __main__ - INFO - Starting Fitness Studio Booking API server...
+2025-06-10 18:39:52 - root - INFO - Logging configuration setup completed
+2025-06-10 18:39:52 - root - INFO - Logging configuration setup completed
+2025-06-10 18:39:52 - src.api - INFO - Initializing database...
+2025-06-10 18:39:52 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:39:52 - src.api - INFO - Database initialized successfully
+2025-06-10 18:39:54 - src.api - INFO - Shutting down application...
