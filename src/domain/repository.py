@@ -57,7 +57,7 @@ class BookingRepository(BookingRepositoryInterface):
     def get_all_upcoming_classes(self) -> List[Class]:
         """Get all upcoming fitness classes."""
         try:
-            with self.db_context as conn:
+            with self.db_context() as conn:
                 cursor = conn.cursor()
                 cursor.execute(Queries.GET_ALL_UPCOMING_CLASSES)
                 rows = cursor.fetchall()
@@ -85,7 +85,7 @@ class BookingRepository(BookingRepositoryInterface):
     def get_class_by_id(self, class_id: int) -> Optional[Class]:
         """Get a specific class by ID."""
         try:
-            with self.db_context as conn:
+            with self.db_context() as conn:
                 cursor = conn.cursor()
                 cursor.execute(Queries.GET_CLASS_BY_ID, (class_id,))
                 row = cursor.fetchone()
@@ -113,7 +113,7 @@ class BookingRepository(BookingRepositoryInterface):
     def create_booking(self, booking_request: BookingRequest) -> Optional[Booking]:
         """Create a new booking with transaction support."""
         try:
-            with self.db_context as conn:
+            with self.db_context() as conn:
                 cursor = conn.cursor()
                 
                 # Start transaction
@@ -187,7 +187,7 @@ class BookingRepository(BookingRepositoryInterface):
     def get_bookings_by_email(self, email: str) -> List[Dict[str, Any]]:
         """Get all bookings for a specific email."""
         try:
-            with self.db_context as conn:
+            with self.db_context() as conn:
                 cursor = conn.cursor()
                 cursor.execute(Queries.GET_BOOKINGS_BY_EMAIL, (email,))
                 rows = cursor.fetchall()
@@ -218,7 +218,7 @@ class BookingRepository(BookingRepositoryInterface):
     def check_existing_booking(self, class_id: int, email: str) -> bool:
         """Check if user already has a booking for this class."""
         try:
-            with self.db_context as conn:
+            with self.db_context() as conn:
                 cursor = conn.cursor()
                 cursor.execute(Queries.CHECK_EXISTING_BOOKING, (class_id, email))
                 count = cursor.fetchone()['count']
@@ -231,7 +231,7 @@ class BookingRepository(BookingRepositoryInterface):
     def update_class_slots(self, class_id: int) -> bool:
         """Reduce available slots for a class."""
         try:
-            with self.db_context as conn:
+            with self.db_context() as conn:
                 cursor = conn.cursor()
                 cursor.execute(Queries.UPDATE_CLASS_SLOTS, (class_id,))
                 return cursor.rowcount > 0

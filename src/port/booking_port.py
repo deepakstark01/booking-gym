@@ -40,8 +40,8 @@ class BookingRouter:
     
     def _get_booking_service(self) -> BookingService:
         """Dependency injection for BookingService."""
-        db = get_database()
-        repository = BookingRepository(db)
+        # Pass the function, not the context manager instance
+        repository = BookingRepository(get_database)
         return BookingService(repository)
     
     def _setup_routes(self):

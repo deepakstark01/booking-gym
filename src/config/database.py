@@ -79,12 +79,12 @@ def insert_seed_data(cursor: sqlite3.Cursor) -> None:
         ("Yoga", "Priya Sharma", base_time + timedelta(days=1, hours=0), 15),
         ("Zumba", "Rahul Kumar", base_time + timedelta(days=1, hours=2), 20),
         ("HIIT", "Anjali Singh", base_time + timedelta(days=1, hours=4), 12),
-        ("Yoga", "Priya Sharma", base_time + timedelta(days=2, hours=0), 15),
-        ("Zumba", "Rahul Kumar", base_time + timedelta(days=2, hours=2), 20),
-        ("HIIT", "Anjali Singh", base_time + timedelta(days=2, hours=4), 12),
-        ("Yoga", "Priya Sharma", base_time + timedelta(days=3, hours=0), 15),
-        ("Zumba", "Rahul Kumar", base_time + timedelta(days=3, hours=2), 20),
-        ("HIIT", "Anjali Singh", base_time + timedelta(days=3, hours=4), 12),
+        ("Yoga", "Rohit Sharma", base_time + timedelta(days=2, hours=0), 15),
+        ("Zumba", "Deepak Kumar", base_time + timedelta(days=2, hours=2), 20),
+        ("HIIT", "Adarsh Singh", base_time + timedelta(days=2, hours=4), 12),
+        ("Yoga", "Preeti Sharma", base_time + timedelta(days=3, hours=0), 15),
+        ("Zumba", "Rohit Kumar", base_time + timedelta(days=3, hours=2), 20),
+        ("HIIT", "Mohit Singh", base_time + timedelta(days=3, hours=4), 12),
     ]
     
     for name, instructor, class_time, slots in seed_classes:
