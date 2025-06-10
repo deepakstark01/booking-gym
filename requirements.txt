@@ -1,0 +1,7 @@
+typing
+fastapi
+pytz
+pydantic
+pytest
+uvicorn
+pydantic[email]

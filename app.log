@@ -126,3 +126,107 @@
 2025-06-10 18:34:42 - src.service.booking_service - DEBUG - Booking ID: 3, Client Email: deepak@rezonanz.io
 2025-06-10 18:34:42 - src.service.booking_service - WARNING - Booking 3 not found or not owned by deepak@rezonanz.io
 2025-06-10 18:34:42 - src.port.booking_port - WARNING - Failed to cancel booking 3: Booking not found or not owned by this email
+2025-06-10 18:39:51 - root - INFO - Logging configuration setup completed
+2025-06-10 18:39:51 - root - INFO - Logging configuration setup completed
+2025-06-10 18:39:51 - __main__ - INFO - Starting Fitness Studio Booking API server...
+2025-06-10 18:39:52 - root - INFO - Logging configuration setup completed
+2025-06-10 18:39:52 - root - INFO - Logging configuration setup completed
+2025-06-10 18:39:52 - src.api - INFO - Initializing database...
+2025-06-10 18:39:52 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:39:52 - src.api - INFO - Database initialized successfully
+2025-06-10 18:39:54 - src.api - INFO - Shutting down application...
+2025-06-10 18:45:55 - root - INFO - Logging configuration setup completed
+2025-06-10 18:45:55 - root - INFO - Logging configuration setup completed
+2025-06-10 18:45:55 - __main__ - INFO - Starting Fitness Studio Booking API server...
+2025-06-10 18:45:55 - root - INFO - Logging configuration setup completed
+2025-06-10 18:45:55 - root - INFO - Logging configuration setup completed
+2025-06-10 18:45:55 - src.api - INFO - Initializing database...
+2025-06-10 18:45:55 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:45:55 - src.api - INFO - Database initialized successfully
+2025-06-10 18:46:01 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/test/test_booking.py')}
+2025-06-10 18:46:01 - src.api - INFO - Shutting down application...
+2025-06-10 18:46:02 - root - INFO - Logging configuration setup completed
+2025-06-10 18:46:02 - root - INFO - Logging configuration setup completed
+2025-06-10 18:46:02 - src.api - INFO - Initializing database...
+2025-06-10 18:46:02 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:46:02 - src.api - INFO - Database initialized successfully
+2025-06-10 18:46:02 - watchfiles.main - DEBUG - 2 changes detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/test/test_booking.py'), (<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
+2025-06-10 18:46:02 - src.api - INFO - Shutting down application...
+2025-06-10 18:46:02 - root - INFO - Logging configuration setup completed
+2025-06-10 18:46:02 - root - INFO - Logging configuration setup completed
+2025-06-10 18:46:02 - src.api - INFO - Initializing database...
+2025-06-10 18:46:02 - src.config.database - INFO - Database initialized successfully
+2025-06-10 18:46:02 - src.api - INFO - Database initialized successfully
+2025-06-10 18:46:02 - watchfiles.main - DEBUG - 1 change detected: {(<Change.modified: 2>, '/Users/deepak/Downloads/FitnessBooker/app.log')}
+2025-06-10 18:46:03 - src.api - INFO - Shutting down application...
+2025-06-10 18:49:53 - root - INFO - Logging configuration setup completed
+2025-06-10 18:49:53 - asyncio - DEBUG - Using selector: KqueueSelector
+2025-06-10 18:49:53 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
+2025-06-10 18:49:53 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
+2025-06-10 18:49:53 - src.domain.repository - INFO - Retrieved 9 upcoming classes
+2025-06-10 18:49:53 - src.service.booking_service - INFO - Successfully converted 9 classes
+2025-06-10 18:49:53 - src.port.booking_port - INFO - Returning 9 classes
+2025-06-10 18:49:53 - httpx - INFO - HTTP Request: GET http://testserver/api/v1/classes "HTTP/1.1 200 OK"
+2025-06-10 18:49:54 - src.service.booking_service - INFO - Processing booking request for class 1
+2025-06-10 18:49:54 - src.service.booking_service - INFO - Successfully created booking 42
+2025-06-10 18:51:48 - root - INFO - Logging configuration setup completed
+2025-06-10 18:51:48 - asyncio - DEBUG - Using selector: KqueueSelector
+2025-06-10 18:51:48 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
+2025-06-10 18:51:48 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
+2025-06-10 18:51:48 - src.domain.repository - INFO - Retrieved 9 upcoming classes
+2025-06-10 18:51:48 - src.service.booking_service - INFO - Successfully converted 9 classes
+2025-06-10 18:51:48 - src.port.booking_port - INFO - Returning 9 classes
+2025-06-10 18:51:48 - httpx - INFO - HTTP Request: GET http://testserver/api/v1/classes "HTTP/1.1 200 OK"
+2025-06-10 18:51:48 - src.service.booking_service - INFO - Processing booking request for class 1
+2025-06-10 18:51:48 - src.service.booking_service - INFO - Successfully created booking 42
+2025-06-10 19:11:25 - root - INFO - Logging configuration setup completed
+2025-06-10 19:11:25 - root - INFO - Logging configuration setup completed
+2025-06-10 19:11:26 - __main__ - INFO - Starting Fitness Studio Booking API server...
+2025-06-10 19:11:26 - root - INFO - Logging configuration setup completed
+2025-06-10 19:11:26 - root - INFO - Logging configuration setup completed
+2025-06-10 19:11:26 - asyncio - DEBUG - Using selector: KqueueSelector
+2025-06-10 19:11:26 - src.api - INFO - Initializing database...
+2025-06-10 19:11:26 - src.config.database - INFO - Database initialized successfully
+2025-06-10 19:11:26 - src.api - INFO - Database initialized successfully
+2025-06-10 19:11:32 - src.port.booking_port - INFO - Getting classes for timezone: Asia/Kolkata
+2025-06-10 19:11:32 - src.service.booking_service - INFO - Retrieving upcoming classes for timezone: Asia/Kolkata
+2025-06-10 19:11:32 - src.domain.repository - INFO - Retrieved 9 upcoming classes
+2025-06-10 19:11:32 - src.service.booking_service - INFO - Successfully converted 9 classes
+2025-06-10 19:11:32 - src.port.booking_port - INFO - Returning 9 classes
+2025-06-10 19:11:35 - src.port.booking_port - INFO - Booking request for class 2 by deepak@rezonanz.io
+2025-06-10 19:11:35 - src.service.booking_service - INFO - Processing booking request for class 2
+2025-06-10 19:11:35 - src.domain.repository - INFO - Retrieved class 2
+2025-06-10 19:11:35 - src.domain.repository - INFO - Created booking 5 for class 2
+2025-06-10 19:11:35 - src.service.booking_service - INFO - Successfully created booking 5
+2025-06-10 19:11:35 - src.port.booking_port - INFO - Booking successful: Successfully booked 'Zumba' class with Rahul Kumar
+2025-06-10 19:11:38 - src.port.booking_port - INFO - Getting bookings for email: deepak@rezonanz.io, timezone: Asia/Kolkata
+2025-06-10 19:11:38 - src.service.booking_service - INFO - Retrieving bookings for deepak@rezonanz.io in timezone: Asia/Kolkata
+2025-06-10 19:11:38 - src.domain.repository - INFO - Retrieved 3 bookings for deepak@rezonanz.io
+2025-06-10 19:11:38 - src.service.booking_service - INFO - Successfully retrieved 3 bookings for deepak@rezonanz.io
+2025-06-10 19:11:38 - src.port.booking_port - INFO - Returning 3 bookings for deepak@rezonanz.io
+2025-06-10 19:11:44 - src.port.booking_port - INFO - Getting class 1 for timezone: Asia/Kolkata
+2025-06-10 19:11:44 - src.service.booking_service - INFO - Retrieving class 1 for timezone: Asia/Kolkata
+2025-06-10 19:11:44 - src.domain.repository - INFO - Retrieved class 1
+2025-06-10 19:11:44 - src.service.booking_service - INFO - Successfully retrieved class 1
+2025-06-10 19:11:44 - src.port.booking_port - INFO - Returning class 1
+2025-06-10 19:11:47 - src.service.booking_service - INFO - Attempting to cancel booking 3 for deepak@rezonanz.io
+2025-06-10 19:11:47 - src.service.booking_service - DEBUG - Booking ID: 3, Client Email: deepak@rezonanz.io
+2025-06-10 19:11:47 - src.service.booking_service - WARNING - Booking 3 not found or not owned by deepak@rezonanz.io
+2025-06-10 19:11:47 - src.port.booking_port - WARNING - Failed to cancel booking 3: Booking not found or not owned by this email
+2025-06-10 19:11:51 - src.service.booking_service - INFO - Attempting to cancel booking 2 for deepak@rezonanz.io
+2025-06-10 19:11:51 - src.service.booking_service - DEBUG - Booking ID: 2, Client Email: deepak@rezonanz.io
+2025-06-10 19:11:51 - src.service.booking_service - WARNING - Booking 2 not found or not owned by deepak@rezonanz.io
+2025-06-10 19:11:51 - src.port.booking_port - WARNING - Failed to cancel booking 2: Booking not found or not owned by this email
+2025-06-10 19:12:08 - src.service.booking_service - INFO - Attempting to cancel booking 3 for deepak@rezonanz.io
+2025-06-10 19:12:08 - src.service.booking_service - DEBUG - Booking ID: 3, Client Email: deepak@rezonanz.io
+2025-06-10 19:12:08 - src.service.booking_service - WARNING - Booking 3 not found or not owned by deepak@rezonanz.io
+2025-06-10 19:12:08 - src.port.booking_port - WARNING - Failed to cancel booking 3: Booking not found or not owned by this email
+2025-06-10 19:12:10 - src.service.booking_service - INFO - Attempting to cancel booking 3 for deepak@rezonanz.io
+2025-06-10 19:12:10 - src.service.booking_service - DEBUG - Booking ID: 3, Client Email: deepak@rezonanz.io
+2025-06-10 19:12:10 - src.service.booking_service - WARNING - Booking 3 not found or not owned by deepak@rezonanz.io
+2025-06-10 19:12:10 - src.port.booking_port - WARNING - Failed to cancel booking 3: Booking not found or not owned by this email
+2025-06-10 19:12:25 - src.service.booking_service - INFO - Attempting to cancel booking 5 for deepak@rezonanz.io
+2025-06-10 19:12:25 - src.service.booking_service - DEBUG - Booking ID: 5, Client Email: deepak@rezonanz.io
+2025-06-10 19:12:25 - src.service.booking_service - INFO - Successfully cancelled booking 5
+2025-06-10 19:12:25 - src.port.booking_port - INFO - Booking 5 cancelled successfully
+2025-06-10 19:12:32 - src.api - INFO - Shutting down application...
