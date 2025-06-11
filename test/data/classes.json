@@ -1,32 +1,5 @@
 [
     {
-        "id": 1,
-        "name": "Yoga",
-        "instructor": "Priya Sharma",
-        "datetime_local": "2025-06-11T09:00:00+05:30",
-        "timezone": "Asia/Kolkata",
-        "total_slots": 15,
-        "available_slots": 13
-    },
-    {
-        "id": 2,
-        "name": "Zumba",
-        "instructor": "Rahul Kumar",
-        "datetime_local": "2025-06-11T11:00:00+05:30",
-        "timezone": "Asia/Kolkata",
-        "total_slots": 20,
-        "available_slots": 19
-    },
-    {
-        "id": 3,
-        "name": "HIIT",
-        "instructor": "Anjali Singh",
-        "datetime_local": "2025-06-11T13:00:00+05:30",
-        "timezone": "Asia/Kolkata",
-        "total_slots": 12,
-        "available_slots": 12
-    },
-    {
         "id": 4,
         "name": "Yoga",
         "instructor": "Priya Sharma",
