@@ -1,0 +1,56 @@
+[
+    {
+        "id": 4,
+        "name": "Yoga",
+        "instructor": "Priya Sharma",
+        "datetime_local": "2025-06-12T09:00:00+05:30",
+        "timezone": "Asia/Kolkata",
+        "total_slots": 15,
+        "available_slots": 15
+    },
+    {
+        "id": 5,
+        "name": "Zumba",
+        "instructor": "Rahul Kumar",
+        "datetime_local": "2025-06-12T11:00:00+05:30",
+        "timezone": "Asia/Kolkata",
+        "total_slots": 20,
+        "available_slots": 20
+    },
+    {
+        "id": 6,
+        "name": "HIIT",
+        "instructor": "Anjali Singh",
+        "datetime_local": "2025-06-12T13:00:00+05:30",
+        "timezone": "Asia/Kolkata",
+        "total_slots": 12,
+        "available_slots": 12
+    },
+    {
+        "id": 7,
+        "name": "Yoga",
+        "instructor": "Priya Sharma",
+        "datetime_local": "2025-06-13T09:00:00+05:30",
+        "timezone": "Asia/Kolkata",
+        "total_slots": 15,
+        "available_slots": 15
+    },
+    {
+        "id": 8,
+        "name": "Zumba",
+        "instructor": "Rahul Kumar",
+        "datetime_local": "2025-06-13T11:00:00+05:30",
+        "timezone": "Asia/Kolkata",
+        "total_slots": 20,
+        "available_slots": 20
+    },
+    {
+        "id": 9,
+        "name": "HIIT",
+        "instructor": "Anjali Singh",
+        "datetime_local": "2025-06-13T13:00:00+05:30",
+        "timezone": "Asia/Kolkata",
+        "total_slots": 12,
+        "available_slots": 12
+    }
+]
