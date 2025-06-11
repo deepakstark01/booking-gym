@@ -2,6 +2,8 @@
 
 A simple API for managing fitness class bookings.
 
+
+render API URL  ``` https://booking-gym.onrender.com/api/v1/classes?timezone=Asia/Kolkata ```
 ---
 
 ## Endpoints & Example Usage
